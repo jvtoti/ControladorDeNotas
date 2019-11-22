@@ -1,0 +1,54 @@
+C:\Users\jvpelizzari\source\repos\ControladorDeNotas\ControladorDeNotas\bin\Debug\ControladorDeNotas.exe.config
+C:\Users\jvpelizzari\source\repos\ControladorDeNotas\ControladorDeNotas\bin\Debug\ControladorDeNotas.exe
+C:\Users\jvpelizzari\source\repos\ControladorDeNotas\ControladorDeNotas\bin\Debug\ControladorDeNotas.pdb
+C:\Users\jvpelizzari\source\repos\ControladorDeNotas\ControladorDeNotas\bin\Debug\EntityFramework.dll
+C:\Users\jvpelizzari\source\repos\ControladorDeNotas\ControladorDeNotas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jvpelizzari\source\repos\ControladorDeNotas\ControladorDeNotas\bin\Debug\MySql.Data.dll
+C:\Users\jvpelizzari\source\repos\ControladorDeNotas\ControladorDeNotas\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\jvpelizzari\source\repos\ControladorDeNotas\ControladorDeNotas\bin\Debug\EntityFramework.xml
+C:\Users\jvpelizzari\source\repos\ControladorDeNotas\ControladorDeNotas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jvpelizzari\source\repos\ControladorDeNotas\ControladorDeNotas\obj\Debug\MainWindow.g.cs
+C:\Users\jvpelizzari\source\repos\ControladorDeNotas\ControladorDeNotas\obj\Debug\App.g.cs
+C:\Users\jvpelizzari\source\repos\ControladorDeNotas\ControladorDeNotas\obj\Debug\ControladorDeNotas_MarkupCompile.cache
+C:\Users\jvpelizzari\source\repos\ControladorDeNotas\ControladorDeNotas\obj\Debug\ControladorDeNotas_MarkupCompile.lref
+C:\Users\jvpelizzari\source\repos\ControladorDeNotas\ControladorDeNotas\obj\Debug\MainWindow.baml
+C:\Users\jvpelizzari\source\repos\ControladorDeNotas\ControladorDeNotas\obj\Debug\ControladorDeNotas.g.resources
+C:\Users\jvpelizzari\source\repos\ControladorDeNotas\ControladorDeNotas\obj\Debug\ControladorDeNotas.Properties.Resources.resources
+C:\Users\jvpelizzari\source\repos\ControladorDeNotas\ControladorDeNotas\obj\Debug\ControladorDeNotas.csproj.GenerateResource.cache
+C:\Users\jvpelizzari\source\repos\ControladorDeNotas\ControladorDeNotas\obj\Debug\ControladorDeNotas.csproj.CopyComplete
+C:\Users\jvpelizzari\source\repos\ControladorDeNotas\ControladorDeNotas\obj\Debug\ControladorDeNotas.exe
+C:\Users\jvpelizzari\source\repos\ControladorDeNotas\ControladorDeNotas\obj\Debug\ControladorDeNotas.pdb
+C:\Users\jvpelizzari\source\repos\ControladorDeNotas\ControladorDeNotas\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\jvpelizzari\source\repos\ControladorDeNotas\ControladorDeNotas\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\jvpelizzari\source\repos\ControladorDeNotas\ControladorDeNotas\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\jvpelizzari\source\repos\ControladorDeNotas\ControladorDeNotas\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\jvpelizzari\source\repos\ControladorDeNotas\ControladorDeNotas\obj\Debug\ControladorDeNotas_Content.g.cs
+C:\Users\jvpelizzari\source\repos\ControladorDeNotas\ControladorDeNotas\obj\Debug\RdlCompile.cache
+C:\Users\jvpelizzari\source\repos\ControladorDeNotas\ControladorDeNotas\obj\Debug\RdlCompile.compiled
+C:\Users\jvpelizzari\source\repos\ControladorDeNotas\ControladorDeNotas\obj\Debug\ControladorDeNotas.csprojAssemblyReference.cache
+C:\Users\RITA ARAUJO\Desktop\ControladorDeNotas\ControladorDeNotas\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\RITA ARAUJO\Desktop\ControladorDeNotas\ControladorDeNotas\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\RITA ARAUJO\Desktop\ControladorDeNotas\ControladorDeNotas\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\RITA ARAUJO\Desktop\ControladorDeNotas\ControladorDeNotas\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\RITA ARAUJO\Desktop\ControladorDeNotas\ControladorDeNotas\bin\Debug\ControladorDeNotas.exe.config
+C:\Users\RITA ARAUJO\Desktop\ControladorDeNotas\ControladorDeNotas\bin\Debug\ControladorDeNotas.exe
+C:\Users\RITA ARAUJO\Desktop\ControladorDeNotas\ControladorDeNotas\bin\Debug\ControladorDeNotas.pdb
+C:\Users\RITA ARAUJO\Desktop\ControladorDeNotas\ControladorDeNotas\bin\Debug\EntityFramework.dll
+C:\Users\RITA ARAUJO\Desktop\ControladorDeNotas\ControladorDeNotas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RITA ARAUJO\Desktop\ControladorDeNotas\ControladorDeNotas\bin\Debug\MySql.Data.dll
+C:\Users\RITA ARAUJO\Desktop\ControladorDeNotas\ControladorDeNotas\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\RITA ARAUJO\Desktop\ControladorDeNotas\ControladorDeNotas\bin\Debug\EntityFramework.xml
+C:\Users\RITA ARAUJO\Desktop\ControladorDeNotas\ControladorDeNotas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RITA ARAUJO\Desktop\ControladorDeNotas\ControladorDeNotas\obj\Debug\MainWindow.g.cs
+C:\Users\RITA ARAUJO\Desktop\ControladorDeNotas\ControladorDeNotas\obj\Debug\App.g.cs
+C:\Users\RITA ARAUJO\Desktop\ControladorDeNotas\ControladorDeNotas\obj\Debug\ControladorDeNotas_Content.g.cs
+C:\Users\RITA ARAUJO\Desktop\ControladorDeNotas\ControladorDeNotas\obj\Debug\ControladorDeNotas_MarkupCompile.cache
+C:\Users\RITA ARAUJO\Desktop\ControladorDeNotas\ControladorDeNotas\obj\Debug\ControladorDeNotas_MarkupCompile.lref
+C:\Users\RITA ARAUJO\Desktop\ControladorDeNotas\ControladorDeNotas\obj\Debug\MainWindow.baml
+C:\Users\RITA ARAUJO\Desktop\ControladorDeNotas\ControladorDeNotas\obj\Debug\ControladorDeNotas.g.resources
+C:\Users\RITA ARAUJO\Desktop\ControladorDeNotas\ControladorDeNotas\obj\Debug\ControladorDeNotas.Properties.Resources.resources
+C:\Users\RITA ARAUJO\Desktop\ControladorDeNotas\ControladorDeNotas\obj\Debug\ControladorDeNotas.csproj.GenerateResource.cache
+C:\Users\RITA ARAUJO\Desktop\ControladorDeNotas\ControladorDeNotas\obj\Debug\ControladorDeNotas.csproj.CoreCompileInputs.cache
+C:\Users\RITA ARAUJO\Desktop\ControladorDeNotas\ControladorDeNotas\obj\Debug\ControladorDeNotas.csproj.CopyComplete
+C:\Users\RITA ARAUJO\Desktop\ControladorDeNotas\ControladorDeNotas\obj\Debug\ControladorDeNotas.exe
+C:\Users\RITA ARAUJO\Desktop\ControladorDeNotas\ControladorDeNotas\obj\Debug\ControladorDeNotas.pdb
